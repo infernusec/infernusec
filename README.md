@@ -1,7 +1,16 @@
 # Hi, I'm Snir Sofer
 
-👋 I'm a PHP/Python developer with a knack for IoT innovations and a fervent love for open source projects. I thrive on turning smart home dreams into reality, weaving technology into everyday life.
-🌟 My journey involves not just writing code but creating experiences. I believe in the transformative power of technology to improve our lives and I'm on a mission to make it happen.
+👋 Hi there! I'm a passionate System Administrator and Developer with a knack for creating robust and secure systems. My expertise lies at the intersection of development, infrastructure, and security, where I strive to ensure that every project I touch is optimized for performance and fortified against vulnerabilities.
+
+🔧 Technical Toolbox: My toolset includes PHP, Python, MySQL, JavaScript, Bootstrap, and Docker. I'm also well-versed in managing a variety of webservers including Nginx, Tomcat, Httpd, JBoss, WildFly, IBM WebSphere, and WebSEAL (ISAM).
+
+🚀 Professional Focus: I am deeply committed to adhering to best practices in security and performance. My approach is to thoroughly understand every aspect of my projects, ensuring they are not just functional but also secure and efficient. My passion lies in bringing the best of development and infrastructure together to build seamless and secure systems.
+
+📚 Continuous Learning: In my free time, I am constantly learning and evolving. I believe in staying ahead of the curve by improving my skills and keeping up-to-date with the latest technologies. This perpetual quest for knowledge fuels my professional growth and enhances the quality of my work.
+
+🌐 Bringing Ideas to Life: I am always eager to collaborate with like-minded professionals and contribute to projects that require a meticulous and security-focused approach. If you're looking for someone who combines a thorough understanding of systems administration with a developer's eye for detail, let's connect!
+
+
 
 * 🐳 I'm currently working on developing Docker containers 😁
 * 🏠 I love to contribute to Home automation projects 😁
